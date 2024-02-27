@@ -11,7 +11,8 @@ export default function App() {
       <main>
         <TituloPrincipal />
         <Ejercicio1 />
-        {/* Añade tus componentes aqui */}
+        {}
+      
       </main>
       <Footer />
     </>
